@@ -6,9 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        double priceKwh = 0.20;
+        double priceKwh = 0.15;
 //        int days = 21;
-        int lastMonth = 5228;
+        int lastMonth = 7535;
 
         System.out.println("Ievadi skaitītāja rādījumu: ");
         int insert_data = scan.nextInt();
